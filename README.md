@@ -30,7 +30,7 @@
 ---
 
 ### 📬 Como me encontrar
-
+joojoj872@gmail.com
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joojoj872@gmail.com)
 
 ---
