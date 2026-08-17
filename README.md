@@ -31,7 +31,7 @@
 
 ### 📬 Como me encontrar
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joojoj872@gmail.com)
 
 ---
 *✨ "Sempre aprendendo e construindo o futuro, uma linha de código por vez."*
